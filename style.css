@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(58, 153, 216);
+}
+
+.titulo {
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+}
+
+.subtitulo {
+    font-family: 'Times New Roman', Times, serif;
+}
+html, body {
+	height: 100%;
+}
+body {
+	margin: 0;
+	background: linear-gradient(#121c79, #6792f0);
+}
